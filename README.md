@@ -39,15 +39,6 @@ This project is part of the **Data Science** It implements the **Decision Tree**
 | Scikit-learn | Machine Learning |
 | Matplotlib | Data Visualization |
 
-## 📁 Project Structure
-Decision-Tree-Model-Evaluation/
-│
-├── dataset/
-├── notebook/
-├── cuplikan/
-├── README.md
-└── requirements.txt
-
 ## 📷 Project Preview
 > Add screenshots of:
 > - Dataset
