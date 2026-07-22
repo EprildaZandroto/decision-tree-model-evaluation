@@ -1,6 +1,6 @@
 # decision-tree-model-evaluation
 Implementasi algoritma Decision Tree untuk klasifikasi data dan evaluasi model menggunakan Accuracy, Precision, Recall, dan F1-Score
-<h1 align="center">🌳 Decision Tree Model Evaluation</h1>
+<h1 align="center"> Decision Tree Model Evaluation</h1>
 
 <p align="center">
   Project Data Science
@@ -15,21 +15,21 @@ Implementasi algoritma Decision Tree untuk klasifikasi data dan evaluasi model m
 
 ---
 
-## 📖 Overview
+## Overview
 This project is part of the **Data Science** It implements the **Decision Tree** algorithm to classify data and evaluates the model using standard classification metrics.
 
-## 🎯 Objectives
+## Objectives
 - Build a classification model using Decision Tree.
 - Evaluate model performance.
 - Understand the implementation of supervised learning algorithms.
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 - Accuracy
 - Precision
 - Recall
 - F1-Score
 - 
-## 🛠 Tech Stack
+## Tech Stack
 | Technology | Description |
 |------------|-------------|
 | Python | Programming Language |
@@ -39,7 +39,7 @@ This project is part of the **Data Science** It implements the **Decision Tree**
 | Scikit-learn | Machine Learning |
 | Matplotlib | Data Visualization |
 
-## 📷 Project Preview
+## Project Preview
 > Add screenshots of:
 > - Dataset
 > - Decision Tree Model
@@ -47,14 +47,14 @@ This project is part of the **Data Science** It implements the **Decision Tree**
 > - Confusion Matrix
 > - Classification Report
 
-## 🚀 Results
+## Results
 The Decision Tree model is evaluated using:
-- ✅ Accuracy
-- ✅ Precision
-- ✅ Recall
-- ✅ F1-Score
+- Accuracy
+- Precision
+- Recall
+- F1-Score
 - 
-## 👩‍💻 Author
+## Author
 **Eprilda Nonifili Zandroto**
 Informatics Engineering  
 ARS University
