@@ -28,7 +28,7 @@ This project is part of the **Data Science** It implements the **Decision Tree**
 - Precision
 - Recall
 - F1-Score
-- 
+  
 ## Tech Stack
 | Technology | Description |
 |------------|-------------|
@@ -53,7 +53,7 @@ The Decision Tree model is evaluated using:
 - Precision
 - Recall
 - F1-Score
-- 
+  
 ## Author
 **Eprilda Nonifili Zandroto**
 Informatics Engineering  
